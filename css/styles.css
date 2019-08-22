@@ -1,0 +1,15 @@
+body {
+
+}
+
+table {
+  border-style: solid;
+  border-color: black;
+  border-spacing: 2px;
+  text-align: center;
+  border-collapse: separate;
+}
+
+td th {
+  padding: 200px;
+}
